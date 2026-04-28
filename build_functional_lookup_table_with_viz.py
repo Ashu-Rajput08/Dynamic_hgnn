@@ -45,7 +45,7 @@ OUTPUT_DIR     = 'output_tables'      # directory to write output CSVs
 # STEP 0 — Nomenclature explanation (printed when script runs)
 # ═════════════════════════════════════════════════════════════════════════════
 print("=" * 70)
-print("FUNCTIONAL LOOKUP TABLE — C. elegans Embryogenesis Project")
+print("FUNCTIONAL LOOKUP TABLE — C. elegans")
 print("=" * 70)
 print("""
 CANONICAL NOMENCLATURE: Sulston 1983 notation
@@ -332,21 +332,17 @@ proof_df.columns = [
 # ═════════════════════════════════════════════════════════════════════════════
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-id_path    = os.path.join(OUTPUT_DIR, 'identity_map_normalized.csv')
-ffl_path   = os.path.join(OUTPUT_DIR, 'functional_lookup_table.csv')
-proof_path = os.path.join(OUTPUT_DIR, 'normalization_proof.csv')
 
-identity_df[['adult_neuron','wormbase_raw_lineage',
-             'sulston_lineage','description',
-             'normalization_applied']].to_csv(id_path, index=False)
+ffl_path   = os.path.join(OUTPUT_DIR, 'functional_lookup_table.csv')
+
 
 ffl_df.to_csv(ffl_path, index=False)
-proof_df.to_csv(proof_path, index=False)
+
 
 print(f"\nOutputs saved:")
-print(f"  {id_path:<45} ({len(identity_df)} rows)")
+
 print(f"  {ffl_path:<45} ({len(ffl_df)} rows)")
-print(f"  {proof_path:<45} ({len(proof_df)} rows)")
+
 
 
 # ═════════════════════════════════════════════════════════════════════════════
@@ -403,7 +399,7 @@ print(ffl_df[['motif_id','adult_A','adult_B','adult_C',
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# STEP 9 — Gerstein-Style FFL Motif Grid Visualization
+# STEP 9 — FFL Motif Grid Visualization
 # ═════════════════════════════════════════════════════════════════════════════
 # This section adds the visual representation of all FFL motifs from ffl_df.
 # Run %run build_functional_lookup_table.py first to generate ffl_df,
@@ -445,7 +441,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 print("\n" + "=" * 70)
-print("STEP 9 — Generating Gerstein-Style FFL Motif Grid")
+print("STEP 9 — Generating FFL Motif Grid")
 print("=" * 70)
 
 # ── Helper: draw one FFL triangle in a single axis ────────────────────────
@@ -453,7 +449,7 @@ def _draw_one_ffl(ax, row, vmin, vmax):
     """
     Draw a single FFL motif as a triangle diagram.
 
-    Layout (matching Gerstein figure):
+    Layout :
       ● A (source)  — top centre,   circle
       ● B (intermediary) — bottom left, circle
       ▲ C (target)  — bottom right, triangle
@@ -654,7 +650,7 @@ stats_text = (
 )
 fig.text(0.5, 0.022, stats_text, ha='center', fontsize=8.5, color='#888888')
 
-output_path = os.path.join(OUTPUT_DIR, 'ffl_gerstein_motif_grid.png')
+output_path = os.path.join(OUTPUT_DIR, 'ffl_motif_grid.png')
 fig.savefig(output_path, dpi=160, bbox_inches='tight', facecolor=OUTER_BG)
 plt.show()
 print(f"\n  Figure saved → {output_path}")
