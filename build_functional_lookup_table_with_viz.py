@@ -31,18 +31,18 @@ import re
 import os
 
 # ─────────────────────────────────────────────────────────────────────────────
-# CONFIGURATION — adjust these paths to match your directory structure
+# CONFIGURATION 
 # ─────────────────────────────────────────────────────────────────────────────
 DATA_DIR       = 'raw_dataset'        # directory containing the data files
 ALIGNMENT_MAP  = os.path.join(DATA_DIR, 'Alignment_map_csv.csv')
 CONNECTOME     = os.path.join(DATA_DIR, 'Connectome.csv')
-CELLS_BIRTH    = os.path.join(DATA_DIR, 'cells_birth_and_pos.csv')   # optional
-TEMPORAL_DATA  = os.path.join(DATA_DIR, 'ce_temporal_data.csv')      # optional
+CELLS_BIRTH    = os.path.join(DATA_DIR, 'cells_birth_and_pos.csv')   
+TEMPORAL_DATA  = os.path.join(DATA_DIR, 'ce_temporal_data.csv')      
 OUTPUT_DIR     = 'output_tables'      # directory to write output CSVs
 
 
 # ═════════════════════════════════════════════════════════════════════════════
-# STEP 0 — Nomenclature explanation (printed when script runs)
+# STEP 0 — Nomenclature explanation 
 # ═════════════════════════════════════════════════════════════════════════════
 print("=" * 70)
 print("FUNCTIONAL LOOKUP TABLE — C. elegans")
@@ -421,15 +421,7 @@ print(ffl_df[['motif_id','adult_A','adult_B','adult_C',
 #              are less abundant and harder to enumerate exhaustively.
 #   The 3-node FFL is the most abundant higher-order motif in C. elegans.
 #   It is also the minimum size that creates a non-trivial hyperedge (size≥3).
-#
-# IS POSITION DATA NEEDED IN FUNCTIONAL HYPEREDGES?
-#   NO. Functional hyperedges (H_functional) encode DESTINY, not location.
-#   The three embryonic cells in each FFL motif are grouped together because
-#   they will become synaptically connected neurons in the adult — this is a
-#   look-ahead biological prior. Their positions at any given timepoint are
-#   irrelevant to this grouping. Position data is used in H_spatial only.
-#   In H_functional: weight w_e = log(1 + synapse_count), derived from
-#   the adult connectome, completely independent of embryonic XYZ coordinates.
+
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
