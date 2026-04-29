@@ -37,7 +37,7 @@ OUTPUTS:
   - anastomosis_events_per_t.png  (bar chart: genuine events over time)
 
 USAGE:
-  %run build_anastomosis_final.py
+  %run build_anastomosis_final_2.py
   # DataFrames: anast_df, summary_df
 =============================================================================
 """
