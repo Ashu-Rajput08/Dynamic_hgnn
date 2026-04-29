@@ -73,10 +73,10 @@ Both scripts read from `raw_dataset/` and write to `output_tables/`.
 ## Key Design Decisions
 
 - **DBSCAN parameters for anastomosis**: `eps=15 voxels, min_samples=3`  
-  Chosen to detect biologically meaningful spatial communities (~1.2 µm threshold).
+  Chosen to detect biologically meaningful spatial communities.
   
 - **Phantom filter**: Switch events where `set(old_members) == set(new_members)` are removed.  
-  These are DBSCAN relabelling artefacts, not real community transitions.
+  
 
 - **Duplicate handling (anastomosis)**: `drop_duplicates('cell')` — keeps first occurrence per cell name per frame. Consistent across all timepoints.
 
