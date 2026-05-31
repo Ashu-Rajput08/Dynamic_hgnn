@@ -1,6 +1,6 @@
 # DHGNN — Dynamic Hypergraph Neural Network for C. elegans Embryogenesis
 
-**GSoC / DevoWorm Project**  
+**Open Source Cohort / DevoWorm Project**  
 
 
 ---
