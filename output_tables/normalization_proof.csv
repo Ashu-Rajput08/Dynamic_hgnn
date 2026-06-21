@@ -1,0 +1,300 @@
+adult_neuron,input_wormbase_raw,after_step1_spaces_removed,after_step2_dots_removed,after_step3_suffix_stripped,output_sulston_final,rules_applied
+ADAL,AB plapaaaapp,ABplapaaaapp,ABplapaaaapp,ABplapaaaapp,ABplapaaaapp,spaces_removed
+ADAR,AB prapaaaapp,ABprapaaaapp,ABprapaaaapp,ABprapaaaapp,ABprapaaaapp,spaces_removed
+ADEL,AB plapaaaapa,ABplapaaaapa,ABplapaaaapa,ABplapaaaapa,ABplapaaaapa,spaces_removed
+ADER,AB prapaaaapa,ABprapaaaapa,ABprapaaaapa,ABprapaaaapa,ABprapaaaapa,spaces_removed
+ADFL,AB alpppppaa,ABalpppppaa,ABalpppppaa,ABalpppppaa,ABalpppppaa,spaces_removed
+ADFR,AB praaappaa,ABpraaappaa,ABpraaappaa,ABpraaappaa,ABpraaappaa,spaces_removed
+ADLL,AB alppppaad,ABalppppaad,ABalppppaad,ABalppppaa,ABalppppaa,spaces_removed + suffix_d_stripped
+ADLR,AB praaapaad,ABpraaapaad,ABpraaapaad,ABpraaapaa,ABpraaapaa,spaces_removed + suffix_d_stripped
+AFDL,AB alpppapav,ABalpppapav,ABalpppapav,ABalpppapa,ABalpppapa,spaces_removed + suffix_v_stripped
+AFDR,AB praaaapav,ABpraaaapav,ABpraaaapav,ABpraaaapa,ABpraaaapa,spaces_removed + suffix_v_stripped
+AIAL,AB plppaappa,ABplppaappa,ABplppaappa,ABplppaappa,ABplppaappa,spaces_removed
+AIAR,AB prppaappa,ABprppaappa,ABprppaappa,ABprppaappa,ABprppaappa,spaces_removed
+AIBL,AB plaapappa,ABplaapappa,ABplaapappa,ABplaapappa,ABplaapappa,spaces_removed
+AIBR,AB praapappa,ABpraapappa,ABpraapappa,ABpraapappa,ABpraapappa,spaces_removed
+AIML,AB plpaapppa,ABplpaapppa,ABplpaapppa,ABplpaapppa,ABplpaapppa,spaces_removed
+AIMR,AB prpaapppa,ABprpaapppa,ABprpaapppa,ABprpaapppa,ABprpaapppa,spaces_removed
+AINL,AB alaaaalal,ABalaaaalal,ABalaaaalal,ABalaaaalal,ABalaaaalal,spaces_removed
+AINR,AB alaapaaar,ABalaapaaar,ABalaapaaar,ABalaapaaar,ABalaapaaar,spaces_removed
+AIYL,AB plpapaaap,ABplpapaaap,ABplpapaaap,ABplpapaaap,ABplpapaaap,spaces_removed
+AIYR,AB prpapaaap,ABprpapaaap,ABprpapaaap,ABprpapaaap,ABprpapaaap,spaces_removed
+AIZL,AB plapaaapav,ABplapaaapav,ABplapaaapav,ABplapaaapa,ABplapaaapa,spaces_removed + suffix_v_stripped
+AIZR,AB prapaaapav,ABprapaaapav,ABprapaaapav,ABprapaaapa,ABprapaaapa,spaces_removed + suffix_v_stripped
+ALA,AB alapppaaa,ABalapppaaa,ABalapppaaa,ABalapppaaa,ABalapppaaa,spaces_removed
+ALML,AB.arppaappa,AB.arppaappa,ABarppaappa,ABarppaappa,ABarppaappa,dots_removed
+ALMR,AB arpppappa,ABarpppappa,ABarpppappa,ABarpppappa,ABarpppappa,spaces_removed
+ALNL,AB plapappppap,ABplapappppap,ABplapappppap,ABplapappppap,ABplapappppap,spaces_removed
+ALNR,AB prapappppap,ABprapappppap,ABprapappppap,ABprapappppap,ABprapappppap,spaces_removed
+AQR,QR.ap,QR.ap,QR.ap,QR.ap,QR.ap,none
+AS1,P1.apa,P1.apa,P1apa,P1apa,P1apa,dots_removed
+AS10,P10.apa,P10.apa,P10apa,P10apa,P10apa,dots_removed
+AS11,P11.apa,P11.apa,P11apa,P11apa,P11apa,dots_removed
+AS2,P2.apa,P2.apa,P2apa,P2apa,P2apa,dots_removed
+AS3,P3.apa,P3.apa,P3apa,P3apa,P3apa,dots_removed
+AS4,P4.apa,P4.apa,P4apa,P4apa,P4apa,dots_removed
+AS5,P5.apa,P5.apa,P5apa,P5apa,P5apa,dots_removed
+AS6,P6.apa,P6.apa,P6apa,P6apa,P6apa,dots_removed
+AS7,P7.apa,P7.apa,P7apa,P7apa,P7apa,dots_removed
+AS8,P8.apa,P8.apa,P8apa,P8apa,P8apa,dots_removed
+AS9,P9.apa,P9.apa,P9apa,P9apa,P9apa,dots_removed
+ASEL,AB alppppppaa,ABalppppppaa,ABalppppppaa,ABalppppppaa,ABalppppppaa,spaces_removed
+ASER,AB praaapppaa,ABpraaapppaa,ABpraaapppaa,ABpraaapppaa,ABpraaapppaa,spaces_removed
+ASGL,AB plaapapap,ABplaapapap,ABplaapapap,ABplaapapap,ABplaapapap,spaces_removed
+ASGR,AB praapapap,ABpraapapap,ABpraapapap,ABpraapapap,ABpraapapap,spaces_removed
+ASHL,AB plpaappaa,ABplpaappaa,ABplpaappaa,ABplpaappaa,ABplpaappaa,spaces_removed
+ASHR,AB prpaappaa,ABprpaappaa,ABprpaappaa,ABprpaappaa,ABprpaappaa,spaces_removed
+ASIL,AB plaapapppa,ABplaapapppa,ABplaapapppa,ABplaapapppa,ABplaapapppa,spaces_removed
+ASIR,AB praapapppa,ABpraapapppa,ABpraapapppa,ABpraapapppa,ABpraapapppa,spaces_removed
+ASJL,AB alpppppppa,ABalpppppppa,ABalpppppppa,ABalpppppppa,ABalpppppppa,spaces_removed
+ASJR,AB praaappppa,ABpraaappppa,ABpraaappppa,ABpraaappppa,ABpraaappppa,spaces_removed
+ASKL,AB alpppapppa,ABalpppapppa,ABalpppapppa,ABalpppapppa,ABalpppapppa,spaces_removed
+ASKR,AB praaaapppa,ABpraaaapppa,ABpraaaapppa,ABpraaaapppa,ABpraaaapppa,spaces_removed
+AUAL,AB alpppppppp,ABalpppppppp,ABalpppppppp,ABalpppppppp,ABalpppppppp,spaces_removed
+AUAR,AB praaappppp,ABpraaappppp,ABpraaappppp,ABpraaappppp,ABpraaappppp,spaces_removed
+AVAL,AB alppaaapa,ABalppaaapa,ABalppaaapa,ABalppaaapa,ABalppaaapa,spaces_removed
+AVAR,AB alaappapa,ABalaappapa,ABalaappapa,ABalaappapa,ABalaappapa,spaces_removed
+AVBL,AB plpaapaap,ABplpaapaap,ABplpaapaap,ABplpaapaap,ABplpaapaap,spaces_removed
+AVBR,AB prpaapaap,ABprpaapaap,ABprpaapaap,ABprpaapaap,ABprpaapaap,spaces_removed
+AVDL,AB alaaapalr,ABalaaapalr,ABalaaapalr,ABalaaapalr,ABalaaapalr,spaces_removed
+AVDR,AB alaaapprl,ABalaaapprl,ABalaaapprl,ABalaaapprl,ABalaaapprl,spaces_removed
+AVEL,AB alpppaaaa,ABalpppaaaa,ABalpppaaaa,ABalpppaaaa,ABalpppaaaa,spaces_removed
+AVER,AB praaaaaaa,ABpraaaaaaa,ABpraaaaaaa,ABpraaaaaaa,ABpraaaaaaa,spaces_removed
+AVFL,P1.aaaa / W.aaa,P1.aaaa/W.aaa,P1aaaa/Waaa,P1aaaa/Waaa,P1aaaa,spaces_removed + dots_removed
+AVFR,P1.aaaa / W.aaa,P1.aaaa/W.aaa,P1aaaa/Waaa,P1aaaa/Waaa,Waaa,spaces_removed + dots_removed
+AVG,AB prpapppap,ABprpapppap,ABprpapppap,ABprpapppap,ABprpapppap,spaces_removed
+AVHL,AB alapaaaaa,ABalapaaaaa,ABalapaaaaa,ABalapaaaaa,ABalapaaaaa,spaces_removed
+AVHR,AB alappapaa,ABalappapaa,ABalappapaa,ABalappapaa,ABalappapaa,spaces_removed
+AVJL,AB alapapppa,ABalapapppa,ABalapapppa,ABalapapppa,ABalapapppa,spaces_removed
+AVJR,AB alapppppa,ABalapppppa,ABalapppppa,ABalapppppa,ABalapppppa,spaces_removed
+AVKL,AB plpapapap,ABplpapapap,ABplpapapap,ABplpapapap,ABplpapapap,spaces_removed
+AVKR,AB prpapapap,ABprpapapap,ABprpapapap,ABprpapapap,ABprpapapap,spaces_removed
+AVL,AB prpappaap,ABprpappaap,ABprpappaap,ABprpappaap,ABprpappaap,spaces_removed
+AVM,QR.paa,QR.paa,QR.paa,QR.paa,QR.paa,none
+AWAL,AB plaapapaa,ABplaapapaa,ABplaapapaa,ABplaapapaa,ABplaapapaa,spaces_removed
+AWAR,AB praapapaa,ABpraapapaa,ABpraapapaa,ABpraapapaa,ABpraapapaa,spaces_removed
+AWBL,AB alpppppap,ABalpppppap,ABalpppppap,ABalpppppap,ABalpppppap,spaces_removed
+AWBR,AB praaappap,ABpraaappap,ABpraaappap,ABpraaappap,ABpraaappap,spaces_removed
+AWCL,AB plpaaaaap,ABplpaaaaap,ABplpaaaaap,ABplpaaaaap,ABplpaaaaap,spaces_removed
+AWCR,AB prpaaaaap,ABprpaaaaap,ABprpaaaaap,ABprpaaaaap,ABprpaaaaap,spaces_removed
+BAGL,AB alppappap,ABalppappap,ABalppappap,ABalppappap,ABalppappap,spaces_removed
+BAGR,AB arappppap,ABarappppap,ABarappppap,ABarappppap,ABarappppap,spaces_removed
+BDUL,AB arppaappp,ABarppaappp,ABarppaappp,ABarppaappp,ABarppaappp,spaces_removed
+BDUR,AB arpppappp,ABarpppappp,ABarpppappp,ABarpppappp,ABarpppappp,spaces_removed
+CEPDL,AB plaaaaappa,ABplaaaaappa,ABplaaaaappa,ABplaaaaappa,ABplaaaaappa,spaces_removed
+CEPDR,AB arpapaappa,ABarpapaappa,ABarpapaappa,ABarpapaappa,ABarpapaappa,spaces_removed
+CEPVL,AB plpaappppa,ABplpaappppa,ABplpaappppa,ABplpaappppa,ABplpaappppa,spaces_removed
+CEPVR,AB prpaappppa,ABprpaappppa,ABprpaappppa,ABprpaappppa,ABprpaappppa,spaces_removed
+DA1,AB prppapaap,ABprppapaap,ABprppapaap,ABprppapaap,ABprppapaap,spaces_removed
+DA2,AB plppapapa,ABplppapapa,ABplppapapa,ABplppapapa,ABplppapapa,spaces_removed
+DA3,AB prppapapa,ABprppapapa,ABprppapapa,ABprppapapa,ABprppapapa,spaces_removed
+DA4,AB plppapapp,ABplppapapp,ABplppapapp,ABplppapapp,ABplppapapp,spaces_removed
+DA5,AB prppapapp,ABprppapapp,ABprppapapp,ABprppapapp,ABprppapapp,spaces_removed
+DA6,AB plpppaaap,ABplpppaaap,ABplpppaaap,ABplpppaaap,ABplpppaaap,spaces_removed
+DA7,AB prpppaaap,ABprpppaaap,ABprpppaaap,ABprpppaaap,ABprpppaaap,spaces_removed
+DA8,AB prpapappp,ABprpapappp,ABprpapappp,ABprpapappp,ABprpapappp,spaces_removed
+DA9,AB plpppaaaa,ABplpppaaaa,ABplpppaaaa,ABplpppaaaa,ABplpppaaaa,spaces_removed
+DB1,AB plpaaaapp,ABplpaaaapp,ABplpaaaapp,ABplpaaaapp,ABplpaaaapp,spaces_removed
+DB2,AB arappappa,ABarappappa,ABarappappa,ABarappappa,ABarappappa,spaces_removed
+DB3,AB prpaaaapp,ABprpaaaapp,ABprpaaaapp,ABprpaaaapp,ABprpaaaapp,spaces_removed
+DB4,AB prpappapp,ABprpappapp,ABprpappapp,ABprpappapp,ABprpappapp,spaces_removed
+DB5,AB plpapappp,ABplpapappp,ABplpapappp,ABplpapappp,ABplpapappp,spaces_removed
+DB6,AB plppaappp,ABplppaappp,ABplppaappp,ABplppaappp,ABplppaappp,spaces_removed
+DB7,AB prppaappp,ABprppaappp,ABprppaappp,ABprppaappp,ABprppaappp,spaces_removed
+DD1,AB plppappap,ABplppappap,ABplppappap,ABplppappap,ABplppappap,spaces_removed
+DD2,AB prppappap,ABprppappap,ABprppappap,ABprppappap,ABprppappap,spaces_removed
+DD3,AB plppapppa,ABplppapppa,ABplppapppa,ABplppapppa,ABplppapppa,spaces_removed
+DD4,AB prppapppa,ABprppapppa,ABprppapppa,ABprppapppa,ABprppapppa,spaces_removed
+DD5,AB plppapppp,ABplppapppp,ABplppapppp,ABplppapppp,ABplppapppp,spaces_removed
+DD6,AB prppapppp,ABprppapppp,ABprppapppp,ABprppapppp,ABprppapppp,spaces_removed
+DVA,AB prppppapp,ABprppppapp,ABprppppapp,ABprppppapp,ABprppppapp,spaces_removed
+DVB,K.p,K.p,K.p,K.p,K.p,none
+DVC,C aapaa,Caapaa,Caapaa,Caapaa,Caapaa,spaces_removed
+FLPL,AB plapaaapad,ABplapaaapad,ABplapaaapad,ABplapaaapa,ABplapaaapa,spaces_removed + suffix_d_stripped
+FLPR,AB prapaaapad,ABprapaaapad,ABprapaaapad,ABprapaaapa,ABprapaaapa,spaces_removed + suffix_d_stripped
+HSNL,AB plapppappa,ABplapppappa,ABplapppappa,ABplapppappa,ABplapppappa,spaces_removed
+HSNR,AB prapppappa,ABprapppappa,ABprapppappa,ABprapppappa,ABprapppappa,spaces_removed
+I1L,AB alpapppaa,ABalpapppaa,ABalpapppaa,ABalpapppaa,ABalpapppaa,spaces_removed
+I1R,AB arapappaa,ABarapappaa,ABarapappaa,ABarapappaa,ABarapappaa,spaces_removed
+I2L,AB alpappaapa,ABalpappaapa,ABalpappaapa,ABalpappaapa,ABalpappaapa,spaces_removed
+I2R,AB arapapaapa,ABarapapaapa,ABarapapaapa,ABarapapaapa,ABarapapaapa,spaces_removed
+I3,MS aaaaapaa,MSaaaaapaa,MSaaaaapaa,MSaaaaapaa,MSaaaaapaa,spaces_removed
+I4,MS aaaapaa,MSaaaapaa,MSaaaapaa,MSaaaapaa,MSaaaapaa,spaces_removed
+I5,AB arapapapp,ABarapapapp,ABarapapapp,ABarapapapp,ABarapapapp,spaces_removed
+I6,MS paaapaa,MSpaaapaa,MSpaaapaa,MSpaaapaa,MSpaaapaa,spaces_removed
+IL1DL,AB alapappaaa,ABalapappaaa,ABalapappaaa,ABalapappaaa,ABalapappaaa,spaces_removed
+IL1DR,AB alappppaaa,ABalappppaaa,ABalappppaaa,ABalappppaaa,ABalappppaaa,spaces_removed
+IL1L,AB alapaappaa,ABalapaappaa,ABalapaappaa,ABalapaappaa,ABalapaappaa,spaces_removed
+IL1R,AB alaappppaa,ABalaappppaa,ABalaappppaa,ABalaappppaa,ABalaappppaa,spaces_removed
+IL1VL,AB alppapppaa,ABalppapppaa,ABalppapppaa,ABalppapppaa,ABalppapppaa,spaces_removed
+IL1VR,AB arapppppaa,ABarapppppaa,ABarapppppaa,ABarapppppaa,ABarapppppaa,spaces_removed
+IL2DL,AB alapappap,ABalapappap,ABalapappap,ABalapappap,ABalapappap,spaces_removed
+IL2DR,AB alappppap,ABalappppap,ABalappppap,ABalappppap,ABalappppap,spaces_removed
+IL2L,AB alapaappp,ABalapaappp,ABalapaappp,ABalapaappp,ABalapaappp,spaces_removed
+IL2R,AB alaappppp,ABalaappppp,ABalaappppp,ABalaappppp,ABalaappppp,spaces_removed
+IL2VL,AB alppapppp,ABalppapppp,ABalppapppp,ABalppapppp,ABalppapppp,spaces_removed
+IL2VR,AB arapppppp,ABarapppppp,ABarapppppp,ABarapppppp,ABarapppppp,spaces_removed
+LUAL,AB plpppaapap,ABplpppaapap,ABplpppaapap,ABplpppaapap,ABplpppaapap,spaces_removed
+LUAR,AB prpppaapap,ABprpppaapap,ABprpppaapap,ABprpppaapap,ABprpppaapap,spaces_removed
+M1,MS paapaaa,MSpaapaaa,MSpaapaaa,MSpaapaaa,MSpaapaaa,spaces_removed
+M2L,AB araapappa,ABaraapappa,ABaraapappa,ABaraapappa,ABaraapappa,spaces_removed
+M2R,AB araappppa,ABaraappppa,ABaraappppa,ABaraappppa,ABaraappppa,spaces_removed
+M3L,AB araapappp,ABaraapappp,ABaraapappp,ABaraapappp,ABaraapappp,spaces_removed
+M3R,AB araappppp,ABaraappppp,ABaraappppp,ABaraappppp,ABaraappppp,spaces_removed
+M4,MS paaaaaa,MSpaaaaaa,MSpaaaaaa,MSpaaaaaa,MSpaaaaaa,spaces_removed
+M5,MS paaapap,MSpaaapap,MSpaaapap,MSpaaapap,MSpaaapap,spaces_removed
+MCL,AB alpaaappp,ABalpaaappp,ABalpaaappp,ABalpaaappp,ABalpaaappp,spaces_removed
+MCR,AB arapaappp,ABarapaappp,ABarapaappp,ABarapaappp,ABarapaappp,spaces_removed
+MI,AB araappaaa,ABaraappaaa,ABaraappaaa,ABaraappaaa,ABaraappaaa,spaces_removed
+NSML,AB araapapaav,ABaraapapaav,ABaraapapaav,ABaraapapaa,ABaraapapaa,spaces_removed + suffix_v_stripped
+NSMR,AB araapppaav,ABaraapppaav,ABaraapppaav,ABaraapppaa,ABaraapppaa,spaces_removed + suffix_v_stripped
+OLLL,AB alppppapaa,ABalppppapaa,ABalppppapaa,ABalppppapaa,ABalppppapaa,spaces_removed
+OLLR,AB praaapapaa,ABpraaapapaa,ABpraaapapaa,ABpraaapapaa,ABpraaapapaa,spaces_removed
+OLQDL,AB alapapapaa,ABalapapapaa,ABalapapapaa,ABalapapapaa,ABalapapapaa,spaces_removed
+OLQDR,AB alapppapaa,ABalapppapaa,ABalapppapaa,ABalapppapaa,ABalapppapaa,spaces_removed
+OLQVL,AB plpaaappaa,ABplpaaappaa,ABplpaaappaa,ABplpaaappaa,ABplpaaappaa,spaces_removed
+OLQVR,AB prpaaappaa,ABprpaaappaa,ABprpaaappaa,ABprpaaappaa,ABprpaaappaa,spaces_removed
+PDA,AB prpppaaaa,ABprpppaaaa,ABprpppaaaa,ABprpppaaaa,ABprpppaaaa,spaces_removed
+PDB,P12.apa,P12.apa,P12apa,P12apa,P12apa,dots_removed
+PDEL,V5L.paaa,V5L.paaa,V5L.paaa,V5L.paaa,V5L.paaa,none
+PDER,V5R.paaa,V5R.paaa,V5R.paaa,V5R.paaa,V5R.paaa,none
+PHAL,AB plpppaapp,ABplpppaapp,ABplpppaapp,ABplpppaapp,ABplpppaapp,spaces_removed
+PHAR,AB prpppaapp,ABprpppaapp,ABprpppaapp,ABprpppaapp,ABprpppaapp,spaces_removed
+PHBL,AB plapppappp,ABplapppappp,ABplapppappp,ABplapppappp,ABplapppappp,spaces_removed
+PHBR,AB prapppappp,ABprapppappp,ABprapppappp,ABprapppappp,ABprapppappp,spaces_removed
+PHCL,TL.pppaa,TL.pppaa,TL.pppaa,TL.pppaa,TL.pppaa,none
+PHCR,TR.pppaa,TR.pppaa,TR.pppaa,TR.pppaa,TR.pppaa,none
+PLML,AB plapappppaa,ABplapappppaa,ABplapappppaa,ABplapappppaa,ABplapappppaa,spaces_removed
+PLMR,AB prapappppaa,ABprapappppaa,ABprapappppaa,ABprapappppaa,ABprapappppaa,spaces_removed
+PLNL,TL.pppap,TL.pppap,TL.pppap,TL.pppap,TL.pppap,none
+PLNR,TR.pppap,TR.pppap,TR.pppap,TR.pppap,TR.pppap,none
+PQR,QL.ap,QL.ap,QL.ap,QL.ap,QL.ap,none
+PVCL,AB plpppaapaa,ABplpppaapaa,ABplpppaapaa,ABplpppaapaa,ABplpppaapaa,spaces_removed
+PVCR,AB prpppaapaa,ABprpppaapaa,ABprpppaapaa,ABprpppaapaa,ABprpppaapaa,spaces_removed
+PVDL,V5L.paapa,V5L.paapa,V5L.paapa,V5L.paapa,V5L.paapa,none
+PVDR,V5R.paapa,V5R.paapa,V5R.paapa,V5R.paapa,V5R.paapa,none
+PVM,QL.paa,QL.paa,QL.paa,QL.paa,QL.paa,none
+PVNL,TL.appp,TL.appp,TL.appp,TL.appp,TL.appp,none
+PVNR,TR.appp,TR.appp,TR.appp,TR.appp,TR.appp,none
+PVPL,AB plppppaaa,ABplppppaaa,ABplppppaaa,ABplppppaaa,ABplppppaaa,spaces_removed
+PVPR,AB prppppaaa,ABprppppaaa,ABprppppaaa,ABprppppaaa,ABprppppaaa,spaces_removed
+PVQL,AB plapppaaa,ABplapppaaa,ABplapppaaa,ABplapppaaa,ABplapppaaa,spaces_removed
+PVQR,AB prapppaaa,ABprapppaaa,ABprapppaaa,ABprapppaaa,ABprapppaaa,spaces_removed
+PVR,C aappv,Caappv,Caappv,Caappv,Caappv,spaces_removed
+PVT,AB plpappppa,ABplpappppa,ABplpappppa,ABplpappppa,ABplpappppa,spaces_removed
+PVWL,TL.ppa,TL.ppa,TL.ppa,TL.ppa,TL.ppa,none
+PVWR,TR.ppa,TR.ppa,TR.ppa,TR.ppa,TR.ppa,none
+RIAL,AB alapaapaa,ABalapaapaa,ABalapaapaa,ABalapaapaa,ABalapaapaa,spaces_removed
+RIAR,AB alaapppaa,ABalaapppaa,ABalaapppaa,ABalaapppaa,ABalaapppaa,spaces_removed
+RIBL,AB plpaappap,ABplpaappap,ABplpaappap,ABplpaappap,ABplpaappap,spaces_removed
+RIBR,AB prpaappap,ABprpaappap,ABprpaappap,ABprpaappap,ABprpaappap,spaces_removed
+RICL,AB plppaaaapp,ABplppaaaapp,ABplppaaaapp,ABplppaaaapp,ABplppaaaapp,spaces_removed
+RICR,AB prppaaaapp,ABprppaaaapp,ABprppaaaapp,ABprppaaaapp,ABprppaaaapp,spaces_removed
+RID,AB alappaapa,ABalappaapa,ABalappaapa,ABalappaapa,ABalappaapa,spaces_removed
+RIFL,AB plppapaaap,ABplppapaaap,ABplppapaaap,ABplppapaaap,ABplppapaaap,spaces_removed
+RIFR,AB prppapaaap,ABprppapaaap,ABprppapaaap,ABprppapaaap,ABprppapaaap,spaces_removed
+RIGL,AB plppappaa,ABplppappaa,ABplppappaa,ABplppappaa,ABplppappaa,spaces_removed
+RIGR,AB prppappaa,ABprppappaa,ABprppappaa,ABprppappaa,ABprppappaa,spaces_removed
+RIH,AB prpappaaa,ABprpappaaa,ABprpappaaa,ABprpappaaa,ABprpappaaa,spaces_removed
+RIML,AB plppaapap,ABplppaapap,ABplppaapap,ABplppaapap,ABplppaapap,spaces_removed
+RIMR,AB prppaapap,ABprppaapap,ABprppaapap,ABprppaapap,ABprppaapap,spaces_removed
+RIPL,AB alpapaaaa,ABalpapaaaa,ABalpapaaaa,ABalpapaaaa,ABalpapaaaa,spaces_removed
+RIPR,AB arappaaaa,ABarappaaaa,ABarappaaaa,ABarappaaaa,ABarappaaaa,spaces_removed
+RIR,AB prpapppaa,ABprpapppaa,ABprpapppaa,ABprpapppaa,ABprpapppaa,spaces_removed
+RIS,AB prpappapa,ABprpappapa,ABprpappapa,ABprpappapa,ABprpappapa,spaces_removed
+RIVL,AB plpaapaaa,ABplpaapaaa,ABplpaapaaa,ABplpaapaaa,ABplpaapaaa,spaces_removed
+RIVR,AB prpaapaaa,ABprpaapaaa,ABprpaapaaa,ABprpaapaaa,ABprpaapaaa,spaces_removed
+RMDDL,AB alpapapaa,ABalpapapaa,ABalpapapaa,ABalpapapaa,ABalpapapaa,spaces_removed
+RMDDR,AB arappapaa,ABarappapaa,ABarappapaa,ABarappapaa,ABarappapaa,spaces_removed
+RMDL,AB alpppapad,ABalpppapad,ABalpppapad,ABalpppapa,ABalpppapa,spaces_removed + suffix_d_stripped
+RMDR,AB praaaapad,ABpraaaapad,ABpraaaapad,ABpraaaapa,ABpraaaapa,spaces_removed + suffix_d_stripped
+RMDVL,AB alppapaaa,ABalppapaaa,ABalppapaaa,ABalppapaaa,ABalppapaaa,spaces_removed
+RMDVR,AB arapppaaa,ABarapppaaa,ABarapppaaa,ABarapppaaa,ABarapppaaa,spaces_removed
+RMED,AB alapppaap,ABalapppaap,ABalapppaap,ABalapppaap,ABalapppaap,spaces_removed
+RMEL,AB alaaaarlp,ABalaaaarlp,ABalaaaarlp,ABalaaaarlp,ABalaaaarlp,spaces_removed
+RMER,AB alaaaarrp,ABalaaaarrp,ABalaaaarrp,ABalaaaarrp,ABalaaaarrp,spaces_removed
+RMEV,AB plpappaaa,ABplpappaaa,ABplpappaaa,ABplpappaaa,ABplpappaaa,spaces_removed
+RMFL,G2.al,G2.al,G2.al,G2.al,G2.al,none
+RMFR,G2.ar,G2.ar,G2.ar,G2.ar,G2.ar,none
+RMGL,AB plapaaapp,ABplapaaapp,ABplapaaapp,ABplapaaapp,ABplapaaapp,spaces_removed
+RMGR,AB prapaaapp,ABprapaaapp,ABprapaaapp,ABprapaaapp,ABprapaaapp,spaces_removed
+RMHL,G1.l,G1.l,G1.l,G1.l,G1.l,none
+RMHR,G1.r,G1.r,G1.r,G1.r,G1.r,none
+SAADL,AB alppapapa,ABalppapapa,ABalppapapa,ABalppapapa,ABalppapapa,spaces_removed
+SAADR,AB arapppapa,ABarapppapa,ABarapppapa,ABarapppapa,ABarapppapa,spaces_removed
+SAAVL,AB plpaaaaaa,ABplpaaaaaa,ABplpaaaaaa,ABplpaaaaaa,ABplpaaaaaa,spaces_removed
+SAAVR,AB prpaaaaaa,ABprpaaaaaa,ABprpaaaaaa,ABprpaaaaaa,ABprpaaaaaa,spaces_removed
+SABD,AB plppapaap,ABplppapaap,ABplppapaap,ABplppapaap,ABplppapaap,spaces_removed
+SABVL,AB plppapaaaa,ABplppapaaaa,ABplppapaaaa,ABplppapaaaa,ABplppapaaaa,spaces_removed
+SABVR,AB prppapaaaa,ABprppapaaaa,ABprppapaaaa,ABprppapaaaa,ABprppapaaaa,spaces_removed
+SDQL,QL.pap,QL.pap,QL.pap,QL.pap,QL.pap,none
+SDQR,QR.pap,QR.pap,QR.pap,QR.pap,QR.pap,none
+SIADL,AB plpapaapa,ABplpapaapa,ABplpapaapa,ABplpapaapa,ABplpapaapa,spaces_removed
+SIADR,AB prpapaapa,ABprpapaapa,ABprpapaapa,ABprpapaapa,ABprpapaapa,spaces_removed
+SIAVL,AB plpapappa,ABplpapappa,ABplpapappa,ABplpapappa,ABplpapappa,spaces_removed
+SIAVR,AB prpapappa,ABprpapappa,ABprpapappa,ABprpapappa,ABprpapappa,spaces_removed
+SIBDL,AB plppaaaaa,ABplppaaaaa,ABplppaaaaa,ABplppaaaaa,ABplppaaaaa,spaces_removed
+SIBDR,AB prppaaaaa,ABprppaaaaa,ABprppaaaaa,ABprppaaaaa,ABprppaaaaa,spaces_removed
+SIBVL,AB plpapaapp,ABplpapaapp,ABplpapaapp,ABplpapaapp,ABplpapaapp,spaces_removed
+SIBVR,AB prpapaapp,ABprpapaapp,ABprpapaapp,ABprpapaapp,ABprpapaapp,spaces_removed
+SMBDL,AB alpapapapp,ABalpapapapp,ABalpapapapp,ABalpapapapp,ABalpapapapp,spaces_removed
+SMBDR,AB arappapapp,ABarappapapp,ABarappapapp,ABarappapapp,ABarappapapp,spaces_removed
+SMBVL,AB alpapappp,ABalpapappp,ABalpapappp,ABalpapappp,ABalpapappp,spaces_removed
+SMBVR,AB arappappp,ABarappappp,ABarappappp,ABarappappp,ABarappappp,spaces_removed
+SMDDL,AB plpapaaaa,ABplpapaaaa,ABplpapaaaa,ABplpapaaaa,ABplpapaaaa,spaces_removed
+SMDDR,AB prpapaaaa,ABprpapaaaa,ABprpapaaaa,ABprpapaaaa,ABprpapaaaa,spaces_removed
+SMDVL,AB alppappaa,ABalppappaa,ABalppappaa,ABalppappaa,ABalppappaa,spaces_removed
+SMDVR,AB arappppaa,ABarappppaa,ABarappppaa,ABarappppaa,ABarappppaa,spaces_removed
+URADL,AB plaaaaaaa,ABplaaaaaaa,ABplaaaaaaa,ABplaaaaaaa,ABplaaaaaaa,spaces_removed
+URADR,AB arpapaaaa,ABarpapaaaa,ABarpapaaaa,ABarpapaaaa,ABarpapaaaa,spaces_removed
+URAVL,AB plpaaapaa,ABplpaaapaa,ABplpaaapaa,ABplpaaapaa,ABplpaaapaa,spaces_removed
+URAVR,AB prpaaapaa,ABprpaaapaa,ABprpaaapaa,ABprpaaapaa,ABprpaaapaa,spaces_removed
+URBL,AB plaapaapa,ABplaapaapa,ABplaapaapa,ABplaapaapa,ABplaapaapa,spaces_removed
+URBR,AB praapaapa,ABpraapaapa,ABpraapaapa,ABpraapaapa,ABpraapaapa,spaces_removed
+URXL,AB plaaaaappp,ABplaaaaappp,ABplaaaaappp,ABplaaaaappp,ABplaaaaappp,spaces_removed
+URXR,AB arpapaappp,ABarpapaappp,ABarpapaappp,ABarpapaappp,ABarpapaappp,spaces_removed
+URYDL,AB alapapapp,ABalapapapp,ABalapapapp,ABalapapapp,ABalapapapp,spaces_removed
+URYDR,AB alapppapp,ABalapppapp,ABalapppapp,ABalapppapp,ABalapppapp,spaces_removed
+URYVL,AB plpaaappp,ABplpaaappp,ABplpaaappp,ABplpaaappp,ABplpaaappp,spaces_removed
+URYVR,AB prpaaappp,ABprpaaappp,ABprpaaappp,ABprpaaappp,ABprpaaappp,spaces_removed
+VA1,W.pa,W.pa,W.pa,W.pa,W.pa,none
+VA10,P10.aaaa,P10.aaaa,P10aaaa,P10aaaa,P10aaaa,dots_removed
+VA11,P11.aaaa,P11.aaaa,P11aaaa,P11aaaa,P11aaaa,dots_removed
+VA12,P12.aaaa,P12.aaaa,P12aaaa,P12aaaa,P12aaaa,dots_removed
+VA2,P2.aaaa,P2.aaaa,P2aaaa,P2aaaa,P2aaaa,dots_removed
+VA3,P3.aaaa,P3.aaaa,P3aaaa,P3aaaa,P3aaaa,dots_removed
+VA4,P4.aaaa,P4.aaaa,P4aaaa,P4aaaa,P4aaaa,dots_removed
+VA5,P5.aaaa,P5.aaaa,P5aaaa,P5aaaa,P5aaaa,dots_removed
+VA6,P6.aaaa,P6.aaaa,P6aaaa,P6aaaa,P6aaaa,dots_removed
+VA7,P7.aaaa,P7.aaaa,P7aaaa,P7aaaa,P7aaaa,dots_removed
+VA8,P8.aaaa,P8.aaaa,P8aaaa,P8aaaa,P8aaaa,dots_removed
+VA9,P9.aaaa,P9.aaaa,P9aaaa,P9aaaa,P9aaaa,dots_removed
+VB1,P1.aaap,P1.aaap,P1aaap,P1aaap,P1aaap,dots_removed
+VB10,P9.aaap,P9.aaap,P9aaap,P9aaap,P9aaap,dots_removed
+VB11,P10.aaap,P10.aaap,P10aaap,P10aaap,P10aaap,dots_removed
+VB2,W.aap,W.aap,W.aap,W.aap,W.aap,none
+VB3,P2.aaap,P2.aaap,P2aaap,P2aaap,P2aaap,dots_removed
+VB4,P3.aaap,P3.aaap,P3aaap,P3aaap,P3aaap,dots_removed
+VB5,P4.aaap,P4.aaap,P4aaap,P4aaap,P4aaap,dots_removed
+VB6,P5.aaap,P5.aaap,P5aaap,P5aaap,P5aaap,dots_removed
+VB7,P6.aaap,P6.aaap,P6aaap,P6aaap,P6aaap,dots_removed
+VB8,P7.aaap,P7.aaap,P7aaap,P7aaap,P7aaap,dots_removed
+VB9,P8.aaap,P8.aaap,P8aaap,P8aaap,P8aaap,dots_removed
+VC1,P3.aap,P3.aap,P3aap,P3aap,P3aap,dots_removed
+VC2,P4.aap,P4.aap,P4aap,P4aap,P4aap,dots_removed
+VC3,P5.aap,P5.aap,P5aap,P5aap,P5aap,dots_removed
+VC4,P6.aap,P6.aap,P6aap,P6aap,P6aap,dots_removed
+VC5,P7.aap,P7.aap,P7aap,P7aap,P7aap,dots_removed
+VD1,W.pp,W.pp,W.pp,W.pp,W.pp,none
+VD10,P9.app,P9.app,P9app,P9app,P9app,dots_removed
+VD11,P10.app,P10.app,P10app,P10app,P10app,dots_removed
+VD12,P11.app,P11.app,P11app,P11app,P11app,dots_removed
+VD13,P12.app,P12.app,P12app,P12app,P12app,dots_removed
+VD2,P1.app,P1.app,P1app,P1app,P1app,dots_removed
+VD3,P2.app,P2.app,P2app,P2app,P2app,dots_removed
+VD4,P3.app,P3.app,P3app,P3app,P3app,dots_removed
+VD5,P4.app,P4.app,P4app,P4app,P4app,dots_removed
+VD6,P5.app,P5.app,P5app,P5app,P5app,dots_removed
+VD7,P6.app,P6.app,P6app,P6app,P6app,dots_removed
+VD8,P7.app,P7.app,P7app,P7app,P7app,dots_removed
+VD9,P8.app,P8.app,P8app,P8app,P8app,dots_removed

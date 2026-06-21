@@ -1,0 +1,300 @@
+adult_neuron,wormbase_raw_lineage,sulston_lineage,description,normalization_applied
+ADAL,AB plapaaaapp,ABplapaaaapp,Ring interneurons,spaces_removed
+ADAR,AB prapaaaapp,ABprapaaaapp,Ring interneurons,spaces_removed
+ADEL,AB plapaaaapa,ABplapaaaapa,"Anterior deirid, sensory neuron, dopaminergic",spaces_removed
+ADER,AB prapaaaapa,ABprapaaaapa,"Anterior deirid, sensory neuron, dopaminergic",spaces_removed
+ADFL,AB alpppppaa,ABalpppppaa,"Amphid neuron, prob. chemosensory",spaces_removed
+ADFR,AB praaappaa,ABpraaappaa,"Amphid neuron, prob. chemosensory",spaces_removed
+ADLL,AB alppppaad,ABalppppaa,"Amphid neuron, prob. chemosensory",spaces_removed + suffix_d_stripped
+ADLR,AB praaapaad,ABpraaapaa,"Amphid neuron, prob. chemosensory",spaces_removed + suffix_d_stripped
+AFDL,AB alpppapav,ABalpppapa,"Amphid finger cell, neuron associated with amphid sheath",spaces_removed + suffix_v_stripped
+AFDR,AB praaaapav,ABpraaaapa,"Amphid finger cell, neuron associated with amphid sheath",spaces_removed + suffix_v_stripped
+AIAL,AB plppaappa,ABplppaappa,Amphid interneuron,spaces_removed
+AIAR,AB prppaappa,ABprppaappa,Amphid interneuron,spaces_removed
+AIBL,AB plaapappa,ABplaapappa,Amphid interneuron,spaces_removed
+AIBR,AB praapappa,ABpraapappa,Amphid interneuron,spaces_removed
+AIML,AB plpaapppa,ABplpaapppa,Ring interneuron,spaces_removed
+AIMR,AB prpaapppa,ABprpaapppa,Ring interneuron,spaces_removed
+AINL,AB alaaaalal,ABalaaaalal,Ring interneuron,spaces_removed
+AINR,AB alaapaaar,ABalaapaaar,Ring interneuron,spaces_removed
+AIYL,AB plpapaaap,ABplpapaaap,Amphid interneuron,spaces_removed
+AIYR,AB prpapaaap,ABprpapaaap,Amphid interneuron,spaces_removed
+AIZL,AB plapaaapav,ABplapaaapa,Amphid interneuron,spaces_removed + suffix_v_stripped
+AIZR,AB prapaaapav,ABprapaaapa,Amphid interneuron,spaces_removed + suffix_v_stripped
+ALA,AB alapppaaa,ABalapppaaa,"Neuron, sends processes laterally and along dorsal cord",spaces_removed
+ALML,AB.arppaappa,ABarppaappa,"Anterior lateral microtubule cell, touch receptor",dots_removed
+ALMR,AB arpppappa,ABarpppappa,"Anterior lateral microtubule cell, touch receptor",spaces_removed
+ALNL,AB plapappppap,ABplapappppap,Neuron associated with ALM,spaces_removed
+ALNR,AB prapappppap,ABprapappppap,Neuron associated with ALM,spaces_removed
+AQR,QR.ap,QR.ap,"Neuron, basal body. not part of a sensillum, projects into ring",none
+AS1,P1.apa,P1apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS10,P10.apa,P10apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS11,P11.apa,P11apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS2,P2.apa,P2apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS3,P3.apa,P3apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS4,P4.apa,P4apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS5,P5.apa,P5apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS6,P6.apa,P6apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS7,P7.apa,P7apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS8,P8.apa,P8apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+AS9,P9.apa,P9apa,"Ventral cord motor neuron, innervates dorsal muscles, no ventral counterpart",dots_removed
+ASEL,AB alppppppaa,ABalppppppaa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASER,AB praaapppaa,ABpraaapppaa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASGL,AB plaapapap,ABplaapapap,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASGR,AB praapapap,ABpraapapap,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASHL,AB plpaappaa,ABplpaappaa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASHR,AB prpaappaa,ABprpaappaa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASIL,AB plaapapppa,ABplaapapppa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASIR,AB praapapppa,ABpraapapppa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASJL,AB alpppppppa,ABalpppppppa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASJR,AB praaappppa,ABpraaappppa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASKL,AB alpppapppa,ABalpppapppa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+ASKR,AB praaaapppa,ABpraaaapppa,"Amphid neurons, single ciliated endings, probably chemo-sensory; project into ring via commissure from ventral ganglion, make diverse synaptic connections in ring neuropil",spaces_removed
+AUAL,AB alpppppppp,ABalpppppppp,"Neuron, process runs with amphid processes but lacks ciliated ending",spaces_removed
+AUAR,AB praaappppp,ABpraaappppp,"Neuron, process runs with amphid processes but lacks ciliated ending",spaces_removed
+AVAL,AB alppaaapa,ABalppaaapa,"Ventral cord interneuron, synapses onto VA, DA, and AS motor neurons; formerly called alpha",spaces_removed
+AVAR,AB alaappapa,ABalaappapa,"Ventral cord interneuron, synapses onto VA, DA, and AS motor neurons; formerly called alpha",spaces_removed
+AVBL,AB plpaapaap,ABplpaapaap,"Ventral cord interneuron, synapses onto VB and DB motor neurons; formerly called beta",spaces_removed
+AVBR,AB prpaapaap,ABprpaapaap,"Ventral cord interneuron, synapses onto VB and DB motor neurons; formerly called beta",spaces_removed
+AVDL,AB alaaapalr,ABalaaapalr,"Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta",spaces_removed
+AVDR,AB alaaapprl,ABalaaapprl,"Ventral cord interneuron, synapses onto VA, DA, AS motorneurons; formerly called delta",spaces_removed
+AVEL,AB alpppaaaa,ABalpppaaaa,"Ventral cord interneuron, like AVD but outputs restrict-ed to anterior cord",spaces_removed
+AVER,AB praaaaaaa,ABpraaaaaaa,"Ventral cord interneuron, like AVD but outputs restrict-ed to anterior cord",spaces_removed
+AVFL,P1.aaaa / W.aaa,P1aaaa,Anterior ventral process F left — interneuron,spaces_removed + dots_removed
+AVFR,P1.aaaa / W.aaa,Waaa,Anterior ventral process F right — interneuron,spaces_removed + dots_removed
+AVG,AB prpapppap,ABprpapppap,"Ventral cord interneuron, few synapses",spaces_removed
+AVHL,AB alapaaaaa,ABalapaaaaa,"Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring",spaces_removed
+AVHR,AB alappapaa,ABalappapaa,"Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring",spaces_removed
+AVJL,AB alapapppa,ABalapapppa,"Neuron, synapses like AVHL/R",spaces_removed
+AVJR,AB alapppppa,ABalapppppa,"Neuron, synapses like AVHL/R",spaces_removed
+AVKL,AB plpapapap,ABplpapapap,Ring and ventral cord interneuron,spaces_removed
+AVKR,AB prpapapap,ABprpapapap,Ring and ventral cord interneuron,spaces_removed
+AVL,AB prpappaap,ABprpappaap,"Ring and ventral cord interneuron, few synapses",spaces_removed
+AVM,QR.paa,QR.paa,"Anterior ventral microtubule cell, touch receptor",none
+AWAL,AB plaapapaa,ABplaapapaa,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath",spaces_removed
+AWAR,AB praapapaa,ABpraapapaa,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath",spaces_removed
+AWBL,AB alpppppap,ABalpppppap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath",spaces_removed
+AWBR,AB praaappap,ABpraaappap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath",spaces_removed
+AWCL,AB plpaaaaap,ABplpaaaaap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath",spaces_removed
+AWCR,AB prpaaaaap,ABprpaaaaap,"Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath",spaces_removed
+BAGL,AB alppappap,ABalppappap,"Neuron, ciliated ending in head, no supporting cells, associated with ILso",spaces_removed
+BAGR,AB arappppap,ABarappppap,"Neuron, ciliated ending in head, no supporting cells, associated with ILso",spaces_removed
+BDUL,AB arppaappp,ABarppaappp,"Neuron, process runs along excretory canal and into ring, unique darkly staining synaptic vesicles",spaces_removed
+BDUR,AB arpppappp,ABarpppappp,"Neuron, process runs along excretory canal and into ring, unique darkly staining synaptic vesicles",spaces_removed
+CEPDL,AB plaaaaappa,ABplaaaaappa,"Cephalic neurons, contain dopamine",spaces_removed
+CEPDR,AB arpapaappa,ABarpapaappa,"Cephalic neurons, contain dopamine",spaces_removed
+CEPVL,AB plpaappppa,ABplpaappppa,"Cephalic neurons, contain dopamine",spaces_removed
+CEPVR,AB prpaappppa,ABprpaappppa,"Cephalic neurons, contain dopamine",spaces_removed
+DA1,AB prppapaap,ABprppapaap,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA2,AB plppapapa,ABplppapapa,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA3,AB prppapapa,ABprppapapa,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA4,AB plppapapp,ABplppapapp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA5,AB prppapapp,ABprppapapp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA6,AB plpppaaap,ABplpppaaap,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA7,AB prpppaaap,ABprpppaaap,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA8,AB prpapappp,ABprpapappp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DA9,AB plpppaaaa,ABplpppaaaa,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DB1,AB plpaaaapp,ABplpaaaapp,"Dorsal B-type motor neuron 1 — ventral cord, innervates dorsal muscles",spaces_removed
+DB2,AB arappappa,ABarappappa,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DB3,AB prpaaaapp,ABprpaaaapp,"Dorsal B-type motor neuron 3 — ventral cord, innervates dorsal muscles",spaces_removed
+DB4,AB prpappapp,ABprpappapp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DB5,AB plpapappp,ABplpapappp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DB6,AB plppaappp,ABplppaappp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DB7,AB prppaappp,ABprppaappp,"Ventral cord motor neurons, innervate dorsal muscles",spaces_removed
+DD1,AB plppappap,ABplppappap,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development",spaces_removed
+DD2,AB prppappap,ABprppappap,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development",spaces_removed
+DD3,AB plppapppa,ABplppapppa,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development",spaces_removed
+DD4,AB prppapppa,ABprppapppa,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development",spaces_removed
+DD5,AB plppapppp,ABplppapppp,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development",spaces_removed
+DD6,AB prppapppp,ABprppapppp,"Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during postembryonic development",spaces_removed
+DVA,AB prppppapp,ABprppppapp,"Ring interneuron, cell body in dorsorectal ganglion",spaces_removed
+DVB,K.p,K.p,"Ring interneuron, cell body in dorsorectal ganglion, innervates rectal muscles",none
+DVC,C aapaa,Caapaa,"Ring interneuron, cell body in dorsorectal ganglion",spaces_removed
+FLPL,AB plapaaapad,ABplapaaapa,"Neuron, ciliated ending in head, no supporting cells, associated with ILso",spaces_removed + suffix_d_stripped
+FLPR,AB prapaaapad,ABprapaaapa,"Neuron, ciliated ending in head, no supporting cells, associated with ILso",spaces_removed + suffix_d_stripped
+HSNL,AB plapppappa,ABplapppappa,"Herm. specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic",spaces_removed
+HSNR,AB prapppappa,ABprapppappa,"Herm. specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic",spaces_removed
+I1L,AB alpapppaa,ABalpapppaa,"Pharyngeal interneurons: ant sensory, input from RIP",spaces_removed
+I1R,AB arapappaa,ABarapappaa,"Pharyngeal interneurons: ant sensory, input from RIP",spaces_removed
+I2L,AB alpappaapa,ABalpappaapa,"Pharyngeal interneurons, ant sensory.",spaces_removed
+I2R,AB arapapaapa,ABarapapaapa,"Pharyngeal interneurons, ant sensory.",spaces_removed
+I3,MS aaaaapaa,MSaaaaapaa,"Pharyngeal interneuron, ant sensory.",spaces_removed
+I4,MS aaaapaa,MSaaaapaa,Pharyngeal interneuron.,spaces_removed
+I5,AB arapapapp,ABarapapapp,"Pharyngeal interneuron, post sensory.",spaces_removed
+I6,MS paaapaa,MSpaaapaa,"Pharyngeal interneuron, post sensory.",spaces_removed
+IL1DL,AB alapappaaa,ABalapappaaa,Inner labial neuron,spaces_removed
+IL1DR,AB alappppaaa,ABalappppaaa,Inner labial neuron,spaces_removed
+IL1L,AB alapaappaa,ABalapaappaa,Inner labial neuron,spaces_removed
+IL1R,AB alaappppaa,ABalaappppaa,Inner labial neuron,spaces_removed
+IL1VL,AB alppapppaa,ABalppapppaa,Inner labial neuron,spaces_removed
+IL1VR,AB arapppppaa,ABarapppppaa,Inner labial neuron,spaces_removed
+IL2DL,AB alapappap,ABalapappap,Inner labial neuron,spaces_removed
+IL2DR,AB alappppap,ABalappppap,Inner labial neuron,spaces_removed
+IL2L,AB alapaappp,ABalapaappp,Inner labial neuron,spaces_removed
+IL2R,AB alaappppp,ABalaappppp,Inner labial neuron,spaces_removed
+IL2VL,AB alppapppp,ABalppapppp,Inner labial neuron,spaces_removed
+IL2VR,AB arapppppp,ABarapppppp,Inner labial neuron,spaces_removed
+LUAL,AB plpppaapap,ABplpppaapap,"Interneuron, short process in post ventral cord",spaces_removed
+LUAR,AB prpppaapap,ABprpppaapap,"Interneuron, short process in post ventral cord",spaces_removed
+M1,MS paapaaa,MSpaapaaa,Pharyngeal motorneurons,spaces_removed
+M2L,AB araapappa,ABaraapappa,Pharyngeal motorneurons,spaces_removed
+M2R,AB araappppa,ABaraappppa,Pharyngeal motorneurons,spaces_removed
+M3L,AB araapappp,ABaraapappp,Pharyngeal sensory-motorneurons,spaces_removed
+M3R,AB araappppp,ABaraappppp,Pharyngeal sensory-motorneurons,spaces_removed
+M4,MS paaaaaa,MSpaaaaaa,Pharyngeal motorneurons,spaces_removed
+M5,MS paaapap,MSpaaapap,Pharyngeal motorneurons,spaces_removed
+MCL,AB alpaaappp,ABalpaaappp,Pharyngeal neurons that synapse onto marginal cells,spaces_removed
+MCR,AB arapaappp,ABarapaappp,Pharyngeal neurons that synapse onto marginal cells,spaces_removed
+MI,AB araappaaa,ABaraappaaa,Pharyngeal motor neuron/interneuron,spaces_removed
+NSML,AB araapapaav,ABaraapapaa,"Pharyngeal neurosecretory motorneuron, contain serotonin",spaces_removed + suffix_v_stripped
+NSMR,AB araapppaav,ABaraapppaa,"Pharyngeal neurosecretory motorneuron, contain serotonin",spaces_removed + suffix_v_stripped
+OLLL,AB alppppapaa,ABalppppapaa,Lateral outer labial neurons,spaces_removed
+OLLR,AB praaapapaa,ABpraaapapaa,Lateral outer labial neurons,spaces_removed
+OLQDL,AB alapapapaa,ABalapapapaa,Quadrant outer labial neuron,spaces_removed
+OLQDR,AB alapppapaa,ABalapppapaa,Quadrant outer labial neuron,spaces_removed
+OLQVL,AB plpaaappaa,ABplpaaappaa,Quadrant outer labial neuron,spaces_removed
+OLQVR,AB prpaaappaa,ABprpaaappaa,Quadrant outer labial neuron,spaces_removed
+PDA,AB prpppaaaa,ABprpppaaaa,"Motor neuron, process in dorsal cord, same as Y cell in hermaphrodite, Y.a in male",spaces_removed
+PDB,P12.apa,P12apa,"Motor neuron, process in dorsal cord, cell body in pre-anal ganglion",dots_removed
+PDEL,V5L.paaa,V5L.paaa,"Neuron, dopaminergic of postderid sensillum",none
+PDER,V5R.paaa,V5R.paaa,"Neuron, dopaminergic of postderid sensillum",none
+PHAL,AB plpppaapp,ABplpppaapp,"Phasmid neurons, probably chemosensory",spaces_removed
+PHAR,AB prpppaapp,ABprpppaapp,"Phasmid neurons, probably chemosensory",spaces_removed
+PHBL,AB plapppappp,ABplapppappp,"Phasmid neurons, probably chemosensory",spaces_removed
+PHBR,AB prapppappp,ABprapppappp,Phasmid neuron B right — chemosensory,spaces_removed
+PHCL,TL.pppaa,TL.pppaa,"Neuron, striated rootlet in male, possibly sensory in tail spike",none
+PHCR,TR.pppaa,TR.pppaa,"Neuron, striated rootlet in male, possibly sensory in tail spike",none
+PLML,AB plapappppaa,ABplapappppaa,"Posterior lateral microtubule cell, touch receptor",spaces_removed
+PLMR,AB prapappppaa,ABprapappppaa,"Posterior lateral microtubule cell, touch receptor",spaces_removed
+PLNL,TL.pppap,TL.pppap,"Interneuron, associated with PLM",none
+PLNR,TR.pppap,TR.pppap,"Interneuron, associated with PLM",none
+PQR,QL.ap,QL.ap,"Neuron, basal body, not part of a sensillum, projects into preanal gangion",none
+PVCL,AB plpppaapaa,ABplpppaapaa,"Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB andDB motor neurons, formerly called delta",spaces_removed
+PVCR,AB prpppaapaa,ABprpppaapaa,"Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB andDB motor neurons, formerly called delta",spaces_removed
+PVDL,V5L.paapa,V5L.paapa,"Neuron, lateral process adjacent to excretory canal",none
+PVDR,V5R.paapa,V5R.paapa,"Neuron, lateral process adjacent to excretory canal",none
+PVM,QL.paa,QL.paa,"Posterior ventral microtuble cell, touch receptor",none
+PVNL,TL.appp,TL.appp,"Interneuron/motor neuron, post. vent. cord, few synapses",none
+PVNR,TR.appp,TR.appp,"Interneuron/motor neuron, post. vent. cord, few synapses",none
+PVPL,AB plppppaaa,ABplppppaaa,"Interneuron, cell body in lumbar ganglion, projects along ventral cord to nerve ring",spaces_removed
+PVPR,AB prppppaaa,ABprppppaaa,"Interneuron, cell body in lumbar ganglion, projects along ventral cord to nerve ring",spaces_removed
+PVQL,AB plapppaaa,ABplapppaaa,"Interneuron, projects along ventral cord to ring",spaces_removed
+PVQR,AB prapppaaa,ABprapppaaa,"Interneuron, projects along ventral cord to ring",spaces_removed
+PVR,C aappv,Caappv,"Interneuron, projects along ventral cord to ring",spaces_removed
+PVT,AB plpappppa,ABplpappppa,"Interneuron, projects along ventral cord to ring",spaces_removed
+PVWL,TL.ppa,TL.ppa,"Interneuron, posterior ventral cord, few synapses",none
+PVWR,TR.ppa,TR.ppa,"Interneuron, posterior ventral cord, few synapses",none
+RIAL,AB alapaapaa,ABalapaapaa,"Ring interneuron, many synapses",spaces_removed
+RIAR,AB alaapppaa,ABalaapppaa,"Ring interneuron, many synapses",spaces_removed
+RIBL,AB plpaappap,ABplpaappap,Ring interneuron,spaces_removed
+RIBR,AB prpaappap,ABprpaappap,Ring interneuron,spaces_removed
+RICL,AB plppaaaapp,ABplppaaaapp,Ring interneuron,spaces_removed
+RICR,AB prppaaaapp,ABprppaaaapp,Ring interneuron,spaces_removed
+RID,AB alappaapa,ABalappaapa,"Ring interneuron, projects along dorsal cord",spaces_removed
+RIFL,AB plppapaaap,ABplppapaaap,Ring interneuron,spaces_removed
+RIFR,AB prppapaaap,ABprppapaaap,Ring interneuron,spaces_removed
+RIGL,AB plppappaa,ABplppappaa,Ring interneuron,spaces_removed
+RIGR,AB prppappaa,ABprppappaa,Ring interneuron,spaces_removed
+RIH,AB prpappaaa,ABprpappaaa,Ring interneuron,spaces_removed
+RIML,AB plppaapap,ABplppaapap,Ring motor neuron,spaces_removed
+RIMR,AB prppaapap,ABprppaapap,Ring motor neuron,spaces_removed
+RIPL,AB alpapaaaa,ABalpapaaaa,"Ring/pharynx interneuron, only direct connection between pharynx and ring",spaces_removed
+RIPR,AB arappaaaa,ABarappaaaa,"Ring/pharynx interneuron, only direct connection between pharynx and ring",spaces_removed
+RIR,AB prpapppaa,ABprpapppaa,Ring interneuron,spaces_removed
+RIS,AB prpappapa,ABprpappapa,Ring interneuron,spaces_removed
+RIVL,AB plpaapaaa,ABplpaapaaa,Ring interneuron,spaces_removed
+RIVR,AB prpaapaaa,ABprpaapaaa,Ring interneuron,spaces_removed
+RMDDL,AB alpapapaa,ABalpapapaa,"Ring motor neuron/interneuron, many synapses",spaces_removed
+RMDDR,AB arappapaa,ABarappapaa,"Ring motor neuron/interneuron, many synapses",spaces_removed
+RMDL,AB alpppapad,ABalpppapa,"Ring motor neuron/interneuron, many synapses",spaces_removed + suffix_d_stripped
+RMDR,AB praaaapad,ABpraaaapa,"Ring motor neuron/interneuron, many synapses",spaces_removed + suffix_d_stripped
+RMDVL,AB alppapaaa,ABalppapaaa,"Ring motor neuron/interneuron, many synapses",spaces_removed
+RMDVR,AB arapppaaa,ABarapppaaa,"Ring motor neuron/interneuron, many synapses",spaces_removed
+RMED,AB alapppaap,ABalapppaap,Ring motor neuron,spaces_removed
+RMEL,AB alaaaarlp,ABalaaaarlp,Ring motor neuron,spaces_removed
+RMER,AB alaaaarrp,ABalaaaarrp,Ring motor neuron,spaces_removed
+RMEV,AB plpappaaa,ABplpappaaa,Ring motor neuron,spaces_removed
+RMFL,G2.al,G2.al,Ring motor neuron/interneuron,none
+RMFR,G2.ar,G2.ar,Ring motor neuron/interneuron,none
+RMGL,AB plapaaapp,ABplapaaapp,Ring interneuron,spaces_removed
+RMGR,AB prapaaapp,ABprapaaapp,Ring interneuron,spaces_removed
+RMHL,G1.l,G1.l,Ring motor neuron/interneuron,none
+RMHR,G1.r,G1.r,Ring motor neuron/interneuron,none
+SAADL,AB alppapapa,ABalppapapa,"Ring interneuron, anteriorly projecting process that runs sublaterally",spaces_removed
+SAADR,AB arapppapa,ABarapppapa,"Ring interneuron, anteriorly projecting process that runs sublaterally",spaces_removed
+SAAVL,AB plpaaaaaa,ABplpaaaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally",spaces_removed
+SAAVR,AB prpaaaaaa,ABprpaaaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally",spaces_removed
+SABD,AB plppapaap,ABplppapaap,"Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1",spaces_removed
+SABVL,AB plppapaaaa,ABplppapaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1",spaces_removed
+SABVR,AB prppapaaaa,ABprppapaaaa,"Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1",spaces_removed
+SDQL,QL.pap,QL.pap,"Post. lateral interneuron, process projects into ring",none
+SDQR,QR.pap,QR.pap,"Ant. lateral interneuron, process projects into ring",none
+SIADL,AB plpapaapa,ABplpapaapa,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIADR,AB prpapaapa,ABprpapaapa,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIAVL,AB plpapappa,ABplpapappa,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIAVR,AB prpapappa,ABprpapappa,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIBDL,AB plppaaaaa,ABplppaaaaa,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIBDR,AB prppaaaaa,ABprppaaaaa,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIBVL,AB plpapaapp,ABplpapaapp,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SIBVR,AB prpapaapp,ABprpapaapp,"Receives a few synapses in the ring, has a posteriorly directed process that runs sublaterally",spaces_removed
+SMBDL,AB alpapapapp,ABalpapapapp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMBDR,AB arappapapp,ABarappapapp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMBVL,AB alpapappp,ABalpapappp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMBVR,AB arappappp,ABarappappp,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMDDL,AB plpapaaaa,ABplpapaaaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMDDR,AB prpapaaaa,ABprpapaaaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMDVL,AB alppappaa,ABalppappaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+SMDVR,AB arappppaa,ABarappppaa,"Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally",spaces_removed
+URADL,AB plaaaaaaa,ABplaaaaaaa,Ring motor neuron,spaces_removed
+URADR,AB arpapaaaa,ABarpapaaaa,Ring motor neuron,spaces_removed
+URAVL,AB plpaaapaa,ABplpaaapaa,Ring motor neuron,spaces_removed
+URAVR,AB prpaaapaa,ABprpaaapaa,Ring motor neuron,spaces_removed
+URBL,AB plaapaapa,ABplaapaapa,"Neuron, presynaptic in ring, ending in head",spaces_removed
+URBR,AB praapaapa,ABpraapaapa,"Neuron, presynaptic in ring, ending in head",spaces_removed
+URXL,AB plaaaaappp,ABplaaaaappp,Ring interneuron,spaces_removed
+URXR,AB arpapaappp,ABarpapaappp,Ring interneuron,spaces_removed
+URYDL,AB alapapapp,ABalapapapp,"Neuron, presynaptic in ring, ending in head",spaces_removed
+URYDR,AB alapppapp,ABalapppapp,"Neuron, presynaptic in ring, ending in head",spaces_removed
+URYVL,AB plpaaappp,ABplpaaappp,"Neuron, presynaptic in ring, ending in head",spaces_removed
+URYVR,AB prpaaappp,ABprpaaappp,"Neuron, presynaptic in ring, ending in head",spaces_removed
+VA1,W.pa,W.pa,"Vent. cord motor neuron, innervates vent. body muscles",none
+VA10,P10.aaaa,P10aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA11,P11.aaaa,P11aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA12,P12.aaaa,P12aaaa,"Vent. cord motor neuron, innervates vent. body muscles, but also interneuron in preanal ganglion",dots_removed
+VA2,P2.aaaa,P2aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA3,P3.aaaa,P3aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA4,P4.aaaa,P4aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA5,P5.aaaa,P5aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA6,P6.aaaa,P6aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA7,P7.aaaa,P7aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA8,P8.aaaa,P8aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VA9,P9.aaaa,P9aaaa,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB1,P1.aaap,P1aaap,"Vent. cord motor neuron, innervates vent. body muscles, also interneuron in ring",dots_removed
+VB10,P9.aaap,P9aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB11,P10.aaap,P10aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB2,W.aap,W.aap,"Vent. cord motor neuron, innervates vent. body muscles",none
+VB3,P2.aaap,P2aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB4,P3.aaap,P3aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB5,P4.aaap,P4aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB6,P5.aaap,P5aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB7,P6.aaap,P6aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB8,P7.aaap,P7aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VB9,P8.aaap,P8aaap,"Vent. cord motor neuron, innervates vent. body muscles",dots_removed
+VC1,P3.aap,P3aap,Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles,dots_removed
+VC2,P4.aap,P4aap,Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles,dots_removed
+VC3,P5.aap,P5aap,Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles,dots_removed
+VC4,P6.aap,P6aap,Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles,dots_removed
+VC5,P7.aap,P7aap,Hermaphrodite specific vent cord motor neuron innervates vulval muscles and vent body muscles,dots_removed
+VD1,W.pp,W.pp,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",none
+VD10,P9.app,P9app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD11,P10.app,P10app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD12,P11.app,P11app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD13,P12.app,P12app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD2,P1.app,P1app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD3,P2.app,P2app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD4,P3.app,P3app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD5,P4.app,P4app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD6,P5.app,P5app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD7,P6.app,P6app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD8,P7.app,P7app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
+VD9,P8.app,P8app,"Vent cord motor neuron, innervates vent body muscles, probably reciprocal inhibitor",dots_removed
