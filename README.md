@@ -71,7 +71,7 @@ DHGNN/
 pip install pandas numpy scikit-learn scipy matplotlib seaborn networkx torch jupyter nbconvert ipykernel
 ```
 
-**Step 2 — (Optional) Regenerate the functional & anastomosis lookup tables**
+**Step 2 — Regenerate the functional & anastomosis lookup tables**
 
 Run from the project root:
 ```bash
