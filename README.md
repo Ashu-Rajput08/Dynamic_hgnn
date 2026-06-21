@@ -44,8 +44,8 @@ DHGNN/
 │   ├── incidence.py                    — HyperedgeSet / HyperedgeBatch + H_aug(t) assembly
 │   ├── visualization.py                — plotting helpers used by the notebooks
 │   ├── build_anastomosis_lookup_table.py         ← builds anastomosis_lookup_table.csv + anastomosis_phantom_events.csv
-│   ├── build_anastomosis_final.py                ← original exploratory script (reference only)
 │   └── build_functional_lookup_table_with_viz.py ← builds functional_lookup_table.csv
+│  
 │
 ├── notebooks/
 │   ├── run_anastomosis_functional.ipynb    — runs the two build scripts above
