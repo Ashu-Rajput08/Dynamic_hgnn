@@ -22,8 +22,7 @@ not imported by the notebooks above):
     build_anastomosis_lookup_table.py        - builds anastomosis_lookup_table.csv
                                                 + anastomosis_phantom_events.csv
     build_functional_lookup_table_with_viz.py - builds functional_lookup_table.csv
-    build_anastomosis_final.py                - original exploratory script,
-                                                 kept for reference only
+    
 
 Keeping the heavy lifting here keeps the notebooks focused on
 exploration / visualization / narrative, while the underlying logic stays
