@@ -37,7 +37,7 @@ DHGNN/
 │   ├── anastomosis_lookup_table.csv    — 11,717 genuine (phantom-removed) switch events (11 cols)
 │   └── anastomosis_phantom_events.csv  — 2,939 phantom events removed from the table above (same schema)
 │
-├── dhgnn_lib/                           ← shared package imported by the notebooks
+├── dhgnn_lib/                         ← shared package imported by the notebooks
 │   ├── cell_universe.py                — fixed cell name <-> index universe (N = 1,625)
 │   ├── node_features.py                — per-timepoint (N, 6) node feature matrices
 │   ├── hyperedges.py                   — hyperedge builders + lookup-table writers
@@ -57,7 +57,7 @@ DHGNN/
 │   ├── lineage/                         — generation distribution, division timing
 │   ├── spatial/                         — cluster size distribution, clusters-over-time, DBSCAN scatter
 │   ├── anastomosis/                     — switch events per timepoint
-│   └── incidence/                       — edge type counts, sparsity pattern, size distribution, bipartite subgraph, evolution over time
+│   └── incidence/                       — edge type counts, sparsity pattern.
 │
 └── README.md
 ```
